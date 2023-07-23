@@ -1,0 +1,30 @@
+////////////////////////////////////////////////////////////////	CLASE 1		//////////////////////////////////////////////////////////
+
+Rules
+
+-0 errores / 0 warnigns
+-Codigo identado
+-Early return permitido
+-Declaraciones al inicio de bloque
+-E/S no en funciones
+-Nombres descriptivos
+-VLA no permitido
+-Memory Leaks no permitido
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////	CLASE 2		//////////////////////////////////////////////////////////
+
+Diferencia entre debuger y release es que el debuger agrega informacion para procesar el codigo, por lo tanto es menos eficent que el release.

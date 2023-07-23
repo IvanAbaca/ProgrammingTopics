@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1687403188 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modeloparcialrenata\main.c
+	"Funciones.h"
+
+1687402877 c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modeloparcialrenata\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1687403220 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modeloparcialrenata\funciones.c
+	"Funciones.h"
+
+1687403220 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modelos de parcial\modeloparcial (renata)\funciones.c
+	"Funciones.h"
+
+1687402877 c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modelos de parcial\modeloparcial (renata)\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1688233461 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modelos de parcial\modeloparcial (renata)\main.c
+	"Funciones.h"
+

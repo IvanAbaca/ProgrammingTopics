@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1685541111 source:d:\git\programacion\exams\autocorregible01\examen.c
+	<stdio.h>
+	"../../Libs/Matrices.h"
+
+1687359725 d:\git\programacion\libs\matrices.h
+
+1687805270 source:d:\git\programacion\exams\autocorregible01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minunit.h"
+	"examen.h"
+
+1685389932 d:\git\programacion\libs\empleado.h
+
+1685389516 d:\git\programacion\libs\utiles.h
+
+1683751496 d:\git\programacion\libs\vectorgenerico.h
+
+1685541111 d:\git\programacion\libs\cadenas.h
+
+1683115966 d:\git\programacion\exams\autocorregible01\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
+1686747791 d:\git\programacion\exams\autocorregible01\examen.h
+
+1687808959 source:d:\autocorregible01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minunit.h"
+	"examen.h"
+
+1683115966 d:\autocorregible01\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
+1686747791 d:\autocorregible01\examen.h
+
+1687808927 source:d:\autocorregible01\examen.c
+	<stdio.h>
+	"examen.h"
+
+1687899335 source:c:\users\laboratorios\documents\abacaivan\autocorregible01\examen.c
+	<stdio.h>
+	"examen.h"
+
+1687899277 c:\users\laboratorios\documents\abacaivan\autocorregible01\examen.h
+
+1687898518 source:c:\users\laboratorios\documents\abacaivan\autocorregible01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minunit.h"
+	"examen.h"
+
+1683115968 c:\users\laboratorios\documents\abacaivan\autocorregible01\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
+1687908305 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modeloparcial (pablo)\examen.c
+	<stdio.h>
+	"examen.h"
+
+1687899277 c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modeloparcial (pablo)\examen.h
+
+1687908151 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modeloparcial (pablo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minunit.h"
+	"examen.h"
+
+1683115968 c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modeloparcial (pablo)\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
+1688233325 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modelos de parcial\modeloparcial (pablo)\examen.c
+	<stdio.h>
+	"examen.h"
+
+1687899277 c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modelos de parcial\modeloparcial (pablo)\examen.h
+
+1688057299 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modelos de parcial\modeloparcial (pablo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minunit.h"
+	"examen.h"
+
+1683115968 c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\modelos de parcial\modeloparcial (pablo)\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686684527 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\dclase11 (recursividad)\funciones.c
+	"Funciones.h"
+
+1686679932 c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\dclase11 (recursividad)\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1686684336 source:c:\users\miyamura\documents\unlam\13_programacion\topicos de programacion\dclase11 (recursividad)\main.c
+	"Funciones.h"
+
